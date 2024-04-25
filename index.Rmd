@@ -142,19 +142,19 @@ class: middle inverse
 # Our training stack
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="80%"}
 include_graphics("img/deborah.jpg")
 ```
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="80%"}
 include_graphics("img/osheen.png")
 ```
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-1.png")
 ```
@@ -167,6 +167,7 @@ include_graphics("img/asana-zoom.png")
 
 ---
 
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-2.png")
 ```
@@ -182,18 +183,21 @@ jrDroplet::create_droplet_from_asana("https://app.asana.com/...")
 
 ---
 
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-3b.png")
 ```
 
 ---
+
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-4.png")
 ```
 
 ---
 
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/notes.png")
 ```
@@ -207,18 +211,20 @@ include_graphics("img/scripts.png")
 
 ---
 
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-5.png")
 ```
 
 ---
 
+class: middle
 ```{r fig.align='center', out.width="80%"}
 include_graphics("img/welcome.png")
 ```
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-6.png")
 ```
@@ -232,7 +238,7 @@ include_graphics("img/workbench.png")
 ```
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-7.png")
 ```
@@ -245,7 +251,7 @@ include_graphics("img/virtual_training_env.png")
 ```
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-8.png")
 ```
@@ -258,7 +264,7 @@ include_graphics("img/slack-notify.png")
 ```
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-9.png")
 ```
@@ -269,7 +275,7 @@ class: middle inverse
 # Our standardised approach
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/git-1.png")
 ```
@@ -300,7 +306,7 @@ class: top inverse
 ### `r fa(name = "sitemap", fill = "white")` &nbsp; Standardised course structure
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/git-2.png")
 ```
@@ -331,7 +337,7 @@ class: top inverse
 ### `r fa(name = "r-project", fill = "white")` &nbsp; Scripts / exercises converted to .R
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/git-3.png")
 ```
@@ -351,19 +357,19 @@ class: top inverse
 ### `r fa(name = "face-smile-beam", fill = "white")` &nbsp; ... that's all!
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/git-4.png")
 ```
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/git-5.png")
 ```
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/git-6.png")
 ```
@@ -391,7 +397,7 @@ class: top inverse
 ### `r fa(name = "calendar-check", fill = "white")` &nbsp; All courses tested monthly
 
 ---
-
+class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/git-7.png")
 ```
