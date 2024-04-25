@@ -44,7 +44,7 @@ background-size: cover
 
 ### `r rmarkdown::metadata$author`</br></br>
 
-#### http://bit.ly/jr-auto-train
+#### http://bit.ly/jr-teach-r
 ]
 
 .left[.footnote[<span>Photo by <a href="https://unsplash.com/@joannakosinska?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joanna Kosinska</a> on <a href="https://unsplash.com/backgrounds/colors?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>]]
@@ -508,5 +508,5 @@ class: right, middle, inverse
 
 #### [`r fa(name = "twitter")` @jumping_uk](https://twitter.com/jumping_uk)  
 #### [`r fa(name = "link")` jumpingrivers.com](https://www.jumpingrivers.com/)  
-#### [`r fa(name = "slideshare")` http://bit.ly/jr-auto-train](http://bit.ly/jr-auto-train)  
+#### [`r fa(name = "slideshare")` http://bit.ly/jr-teach-r](http://bit.ly/jr-teach-r)  
 
