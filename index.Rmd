@@ -276,6 +276,18 @@ include_graphics("img/flow-10.png")
 ```
 
 ---
+class: middle
+```{r fig.align='center', out.width="100%"}
+include_graphics("img/flow-11.png")
+```
+
+---
+class: middle
+```{r fig.align='center', out.width="100%"}
+include_graphics("img/flow-12.png")
+```
+
+---
 class: middle inverse
 
 # Our standardised approach
