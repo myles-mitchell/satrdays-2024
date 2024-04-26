@@ -185,7 +185,7 @@ jrDroplet::create_droplet_from_asana("https://app.asana.com/...")
 
 class: middle
 ```{r fig.align='center', out.width="100%"}
-include_graphics("img/flow-3b.png")
+include_graphics("img/flow-3.png")
 ```
 
 ---
@@ -267,6 +267,12 @@ include_graphics("img/slack-notify.png")
 class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/flow-9.png")
+```
+
+---
+class: middle
+```{r fig.align='center', out.width="100%"}
+include_graphics("img/flow-10.png")
 ```
 
 ---
@@ -400,6 +406,12 @@ class: top inverse
 class: middle
 ```{r fig.align='center', out.width="100%"}
 include_graphics("img/git-7.png")
+```
+
+---
+class: middle
+```{r fig.align='center', out.width="100%"}
+include_graphics("img/git-8.png")
 ```
 
 ---
