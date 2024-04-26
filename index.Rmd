@@ -474,14 +474,20 @@ class: top inverse
 
 ### `r fa(name = "globe", fill = "white")` &nbsp; >100 courses taught per year
 
+--
+
+### `r fa(name = "sitemap", fill = "white")` &nbsp; Asana is an accessible interface
+
+---
+class: middle
+```{r fig.align='center', out.width="100%"}
+include_graphics("img/flow-10.png")
+```
+
 ---
 class: top inverse
 
 # Drawbacks
-
---
-
-### `r fa(name = "hammer", fill = "white")` &nbsp; One change can break 40 repositories!
 
 --
 
@@ -490,6 +496,16 @@ class: top inverse
 --
 
 ### `r fa(name = "face-grimace", fill = "white")` &nbsp; Course structure can be restrictive...
+
+--
+
+### `r fa(name = "hammer", fill = "white")` &nbsp; One change can break 40 repositories!
+
+---
+class: middle
+```{r fig.align='center', out.width="100%"}
+include_graphics("img/git-8.png")
+```
 
 ---
 class: top inverse
@@ -514,7 +530,7 @@ class: top inverse
 
 --
 
-### `r fa(name = "user-friends", fill = "white")` &nbsp; It takes a team
+### `r fa(name = "user-friends", fill = "white")` &nbsp; Think about your colleagues
 
 ---
 
